@@ -13,10 +13,10 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="wallpapers" translatable="false">
-        <item>alone</item>
-        <item>anime_sky</item>
-        <item>bluetrees</item>
-        <item>pixelated</item>
-        <item>swordsman</item>
+        <item>camping</item>
+        <item>island_house</item>
+        <item>moon_and_earth</item>
+        <item>night_city</item>  
+        <item>sky_scraper</item>
     </array>
 </resources>
